@@ -1,5 +1,5 @@
 # 💫 About Me:
-im a computer science student,i want my github beAUTIFULL AND WELL ORGANISED
+Currently studying computing, I am in my 2nd year. I love programming and interracting with computers, my aim is to become a full-stack software dev.
 
 
 ## 🌐 Socials:
