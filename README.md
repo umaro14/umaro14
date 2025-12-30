@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying computing, I am in my 2nd year. I love programming and interracting with computers, my aim is to become a full-stack software dev.
+Currently studying computing, I am in my ** year. I love programming and interracting with computers, my aim is to become a full-stack software dev.
 
 
 ## 🌐 Socials:
