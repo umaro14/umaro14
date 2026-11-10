@@ -2,32 +2,35 @@
 Aspiring Network Engineer | CCNA Student | AWS Cloud & Infrastructure Enthusiast
 
 I'm a final-year IT student passionate about networking, cloud computing, cybersecurity and infrastructure engineering.
-
 Currently developing my technical skills through hands-on projects, practical labs and professional certifications. My goal is to build, manage, secure and automate modern IT infrastructure.
 
-urrently Learning
+Currently Learning
 
 🌐 Cisco Networking: CCNA – Routing, Switching, VLANs, OSPF, ACLs, NAT and Network Security.
-
 ☁️ Amazon Web Services: AWS Solutions Architect – EC2, VPC, S3, IAM, Lambda, Load Balancing and Cloud Architecture.
-
 🐧 Linux: Ubuntu, Linux administration, file permissions, users, groups and SSH.
-
 🔐 Cybersecurity: Network Security, SIEM, Threat Detection and Wireshark.
-
 ⚙️ Infrastructure as Code: Terraform and infrastructure automation.
 
 🛠️ Technologies & Tools
 
 Networking
-
 Cisco Packet Tracer
-
 TCP/IP, Subnetting and VLSM
-
 VLANs, Trunking and Inter-VLAN Routing
-
 OSPF, Static Routing and ACLs
+Cloud & Infrastructure
+AWS
+Linux / Ubuntu
+Terraform (Learning)
+Docker
+
+Programming & Development
+Java
+JavaScript
+Node.js
+Python
+SQL / PostgreSQL
 
 
 ## 🌐 Socials:
