@@ -7,9 +7,12 @@ Currently developing my technical skills through hands-on projects, practical la
 Currently Learning
 
 🌐 Cisco Networking: CCNA – Routing, Switching, VLANs, OSPF, ACLs, NAT and Network Security.
+
 ☁️ Amazon Web Services: AWS Solutions Architect – EC2, VPC, S3, IAM, Lambda, Load Balancing and Cloud Architecture.
+
 🐧 Linux: Ubuntu, Linux administration, file permissions, users, groups and SSH.
 🔐 Cybersecurity: Network Security, SIEM, Threat Detection and Wireshark.
+
 ⚙️ Infrastructure as Code: Terraform and infrastructure automation.
 
 🛠️ Technologies & Tools
